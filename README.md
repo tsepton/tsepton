@@ -21,6 +21,6 @@
 
 <p align="center" > 
   <a href="https://github.com/tsepton">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsepton&count_private=true&theme=radical&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsepton&count_private=true&theme=radical&layout=compact&hide=Jupyter Notebook,batchfile" />
   </a>
 </p>
