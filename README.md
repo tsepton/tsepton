@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thibaut-septon-b425041a2/" />
   </a>
   <p align="center">
-    Currently finishing my studies in computer science at the university of Namur, Belgium. 
+    Research scientist in Computer Science at the university of Namur, Belgium. 
   </p>
 </p>
 <p align="center">
